@@ -64,3 +64,8 @@ body {
     object-fit: contain;
     filter: brightness(800%); 
 }
+
+.linguagens {
+    display: flex;
+    flex-direction: row;
+}
