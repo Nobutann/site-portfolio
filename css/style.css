@@ -51,5 +51,16 @@ body {
 }
 
 .socials {
-    display: grid;
+    position: relative;
+    width: auto;
+    text-align: left;
+    bottom: 480px;
+    line-height: 180px;
+}
+
+.socials-item {
+    width: 50px;
+    height: auto;
+    object-fit: contain;
+    filter: brightness(800%); 
 }
