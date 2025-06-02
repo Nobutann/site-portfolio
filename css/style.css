@@ -1,0 +1,55 @@
+body {
+    font-family: "Playfair Display", serif;
+    background-image: url("../img/animebg.jpg");
+    color: #F5F5DC;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-item {
+    margin-inline: 100px;
+    margin-top: 30px;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: #F5F5DC;
+    position: relative;
+}
+
+.menu-item::after {
+    content: "";
+    position: absolute;
+    height: 2px;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    background: rgb(255, 36, 0);
+    transition: width .2s;
+}
+
+.menu-item:hover::after {
+    width: 100%;
+}
+
+.menu-item:active::after {
+    background: rgb(114, 47, 55);
+}
+.menu-item:active {
+    color: grey
+}
+
+.eu {
+    height: 500px;
+    width: auto;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 100px;
+    line-height: 200px;
+}
+
+.socials {
+    display: grid;
+}
