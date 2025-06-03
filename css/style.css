@@ -54,18 +54,38 @@ body {
     position: relative;
     width: auto;
     text-align: left;
-    bottom: 480px;
-    line-height: 180px;
+    bottom: 530px;
+    line-height: 178px;
 }
 
 .socials-item {
     width: 50px;
     height: auto;
     object-fit: contain;
-    filter: brightness(800%); 
+    filter: brightness(800%);
 }
 
-.linguagens {
+.container {
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+    padding: 79px;
+}
+
+.ferramentas {
+    padding: 15px;
+}
+
+.seção {
+    background-color: #2a1e2e;
+    border-radius: 2ch;
+    border-width: 100px;
+    font-family: "Roboto Mono", monospace;
+}
+
+#mhabilidades {
+    text-align: center;
+    padding-top: 30px;
 }
