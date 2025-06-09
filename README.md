@@ -2,11 +2,15 @@
 
 Bem-vindo ao meu portfólio pessoal! Aqui você encontra um pouco sobre mim, minhas habilidades e os projetos que tenho desenvolvido, com uma identidade visual estilo anime do jeito que eu curto.
 
+---
+
 ## Sobre o site
 
 Este site foi criado como atividade avaliativa da cadeira de "Introdução à Computação" do primeiro período de
 Ciências da Computação na CESAR School. É um portfólio que cada aba fala um pouco sobre mim, minhas habilidades,
 projetos e informações de contato.
+
+---
 
 ## Tecnologias utilizadas
 
@@ -14,6 +18,8 @@ projetos e informações de contato.
 - **CSS3**
 - **JavaScript**
 - Imagens e ícones personalziados
+
+---
 
 ## Estrutura do portfólio
 
@@ -25,6 +31,8 @@ projetos e informações de contato.
 
 - **Projetos**: Detalhes do projeto "SINALIZE", desenvolvido na cadeira de Projeto 1.
 
+---
+
 ## Contato
 
 Fique à vontade para entrar em contato comigo:
@@ -34,6 +42,8 @@ Fique à vontade para entrar em contato comigo:
 - Instagram: https://www.instagram.com/lu.gonzaga_/
 
 - LinkedIn: https://www.linkedin.com/in/gonzaga07
+
+---
 
 ## Licença
 
