@@ -58,7 +58,7 @@ body {
 }
 
 .socialssob {
-    margin-top: -520px;
+    margin-top: -519px;
     width: auto;
     text-align: left;
     line-height: 178px; 
@@ -69,6 +69,13 @@ body {
     width: auto;
     text-align: left;
     line-height: 178px;
+}
+
+.socialsproj {
+    margin-top: -496px;
+    width: auto;
+    text-align: left;
+    line-height: 178px; 
 }
 
 .socials-item {
@@ -98,7 +105,7 @@ body {
     font-family: "Roboto Mono", monospace;
 }
 
-#mhabilidades {
+.mhabilidades {
     text-align: center;
     padding-top: 30px;
 }
@@ -118,5 +125,36 @@ footer {
 .titulosobre {
     text-align: center;
     margin-top: 100px;
+    font-size: 3rem;
+}
+
+.projects {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.sinalize {
+    line-height: 70px;
+    background-color: #2a1e2e;
+    border-radius: 2ch;
+    font-family: "Roboto Mono", monospace;
+    padding: 20px;
+}
+
+.sinalize h2 {
+    padding-left: 360px;
+    margin-top: -5px
+}
+
+strong {
+    color: #20d4f6;
+}
+
+.tituloproj {
+    text-align: center;
+    margin-top: 40px;
     font-size: 3rem;
 }
