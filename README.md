@@ -17,7 +17,7 @@ projetos e informações de contato.
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- Imagens e ícones personalziados
+- Imagens e ícones personalizados
 
 ---
 
