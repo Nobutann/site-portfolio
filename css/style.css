@@ -1,6 +1,6 @@
 body {
     font-family: "Playfair Display", serif;
-    background-image: url("../img/animebg.jpg");
+    background-image: url("../img/animebg.png");
     color: #F5F5DC;
 }
 
@@ -47,19 +47,32 @@ body {
     font-size: 30px;
     text-align: center;
     margin-top: 100px;
-    line-height: 200px;
+    line-height: 150px;
 }
 
 .socials {
-    position: relative;
+    margin-top: -550px;
     width: auto;
     text-align: left;
-    bottom: 530px;
+    line-height: 178px; 
+}
+
+.socialssob {
+    margin-top: -520px;
+    width: auto;
+    text-align: left;
+    line-height: 178px; 
+}
+
+.socialshab {
+    margin-top: -575px;
+    width: auto;
+    text-align: left;
     line-height: 178px;
 }
 
 .socials-item {
-    width: 50px;
+    width: 40px;
     height: auto;
     object-fit: contain;
     filter: brightness(800%);
@@ -88,4 +101,22 @@ body {
 #mhabilidades {
     text-align: center;
     padding-top: 30px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 55px;
+}
+
+.sobremim {
+    text-align: center;
+    margin-top: 60px;
+    line-height: 60px;
+    font-size: 18px;
+}
+
+.titulosobre {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 3rem;
 }
